@@ -1,0 +1,1 @@
+# Project to explain the Maven Bill Of Material Concept 
